@@ -1,4 +1,7 @@
-# 700P-PROJECTS  
+
+
+
+![My Picture](https://github.com/blaine245/700P-PROJECTS/blob/512a8f3c7837960cd88ddd84df790c06db5fb90c/Images./ASUAR%20BLAINE%20M.jpg)
 ## 👋 Hi, I’m Blaine M. Asuar  
 
 ---
