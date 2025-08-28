@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images./ASUAR BLAINE M.jpg width="190" height="180" />
+  <img src="Images./ASUAR BLAINE M.jpg" width="190" height="180" />
 </p>
 
 
