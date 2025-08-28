@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/blaine245/700P-PROJECTS/blob/512a8f3c7837960cd88ddd84df790c06db5fb90c/Images./ASUAR%20BLAINE%20M.jpg" width="250" />
+  <img src="https://github.com/blaine245/700P-PROJECTS/blob/512a8f3c7837960cd88ddd84df790c06db5fb90c/Images./ASUAR%20BLAINE%20M.jpg" width="190" height="180"/>
 </p>
 
 
