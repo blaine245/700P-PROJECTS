@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/blaine245/700P-PROJECTS/blob/main/Images./ASUAR%20BLAINE%20M.jpg" alt="Blaine M. Asuar" width="200" />
+  <img src="Images./ASUAR BLAINE M.jpg" alt="Blaine M. Asuar" width="200" />
 </p>
 
 
