@@ -36,7 +36,7 @@ Outside of academics, I value spending time with family and friends, exploring n
 
 ## 💻 My Projects  
 - 🧪 **MIDTERM**  
-  - MIDTERM LAB TASK 1: [📂 Object Oriented Analysis]()
+  - MIDTERM LAB TASK 1: [📂 Object Oriented Analysis](MIDTERM/aljohn salalac & blaine asuar C204.docx)
   -  
 - 🔥 More projects coming soon...  
 
