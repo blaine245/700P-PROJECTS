@@ -64,9 +64,16 @@ Outside of academics, I value spending time with family and friends, exploring n
 - Adaptability 🔄  
 
 ---
-## 📬 CONTACTS  
-- 📘 [Facebook](https://facebook.com/yourprofile)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourprofile)  
+## 📬 CONTACTS 
+<p align="center">
+  <a href="https://mail.google.com/mail/mu/mp/94/#tl/priority/%5Esmartlabel_personal" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1CcHgv5L2x/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+  </a>
+</p>
+
 
 ---
