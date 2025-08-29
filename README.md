@@ -10,8 +10,7 @@
 ---
 
 ## 🌟 About Me  
-Outside of academics, I value spending time with family and friends, exploring new knowledge, and listening to music.  
-
+"Hello! I’m a friendly person who enjoys playing games, reading manga, and relaxing while watching shows or listening to music 🎧."
 ---
 
 ## 💡 What I Believe In  
