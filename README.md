@@ -36,7 +36,7 @@
 ## 💻 My Projects  
 - 🧪 **MIDTERM**  
   - MIDTERM LAB TASK 1: [📂 Object Oriented Analysis](https://github.com/blaine245/700P-PROJECTS/blob/d8830fa4ef89e9d3e84b07b9b60911f41d9bb9fe/MIDTERM/aljohn%20salalac%20%26%20blaine%20asuar%20C204.docx)
-  - MIDTERM LAB TASK 2: [📂 Loop and Functions](https://github.com/blaine245/700P-PROJECTS/blob/d8830fa4ef89e9d3e84b07b9b60911f41d9bb9fe/MIDTERM/aljohn%20salalac%20%26%20blaine%20asuar%20C204.docx)
+  - MIDTERM LAB TASK 2: [📂 Loop and Functions](PK)
     
 
 ---
