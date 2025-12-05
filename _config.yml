@@ -1,3 +1,17 @@
+title: "🎄 Merry Christmas | Blaine M. Asuar 🎅"
+description: "A festive GitHub Pages site celebrating the holiday season! ❄️✨"
+
 remote_theme: pages-themes/merlot@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# Optional Christmas color overrides (Merlot supports custom CSS)
+# Create a file: assets/css/style.scss and enable this:
+# sass:
+#   style: compressed
+
+# Include custom holiday styling
+# Add this in your layout to load Christmas CSS:
+# <link rel="stylesheet" href="/assets/css/christmas.css">
+
