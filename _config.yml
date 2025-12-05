@@ -1,11 +1,13 @@
-title: "🎄🎅 Blaine Asuar — Christmas Edition ❄️✨"
-description: "Welcome to my wide, festive, holiday-themed GitHub Pages site!"
+title: "🎄 Blaine Asuar — Christmas Edition 🎅"
+description: "A festive GitHub Pages site celebrating Christmas!"
 
+# GitHub Pages Theme
 remote_theme: pages-themes/merlot@v0.2.0
 
+# Required for Merlot to work
 plugins:
   - jekyll-remote-theme
 
-# Enable custom CSS
+# Allow loading your Christmas CSS
 include:
   - assets/css/christmas.css
