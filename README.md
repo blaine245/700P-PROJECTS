@@ -44,7 +44,7 @@
 
 ---
 - 🧪 **FINALS** 
-  - MIDTERM LAB TASK 1: [📂 Object Oriented Analysis](https://github.com/blaine245/700P-PROJECTS/blob/d8830fa4ef89e9d3e84b07b9b60911f41d9bb9fe/MIDTERM/aljohn%20salalac%20%26%20blaine%20asuar%20C204.docx)
+  - MIDTERM LAB TASK 1: [📂 Object Oriented Analysis](https://github.com/blaine245/700P-PROJECTS/blob/3c8c01e94e0ce4f6c33261d17df04141f2451e2d/Finals/lab%20task/bankAccout.py.pdf)
   - MIDTERM LAB TASK 2: [📂 Loop and Functions](https://github.com/blaine245/700P-PROJECTS/blob/b861534c3b95055afeb32a5e99d41cc814dd1fdb/MIDTERM/Midterm%20Lab%20Task%202%20Loops%20and%20Functions.docx)
   - MIDTERM LAB TASK 3: [📂 Python List Collections](https://github.com/blaine245/700P-PROJECTS/blob/d3b8ba8103eb838dd17a6be985ed7341af2bf519/MIDTERM/Asuar%20b.pdf)
   - MIDTERM LAB TASK 4: [📂 Using Dictionaries](https://github.com/blaine245/700P-PROJECTS/blob/8afcbfa5fa667c837ed9378d85dcbc6eab0fbccf/MIDTERM/Aqua's%20(2).pdf)
