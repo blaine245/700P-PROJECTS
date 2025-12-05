@@ -1,1 +1,64 @@
+body {
+  background: url('https://i.imgur.com/O7UQF0R.png');
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Poppins", sans-serif;
+}
+
+h1, h2, h3 {
+  color: #d60024 !important;
+  text-shadow: 0 0 8px rgba(255, 80, 80, 0.6);
+}
+
+strong {
+  color: #0fa34a !important;
+}
+
+h1 {
+  font-size: 2.6rem !important;
+}
+
+.main-content {
+  max-width: 1100px !important;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.80);
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
+}
+
+body::before {
+  content: "";
+  display: block;
+  height: 80px;
+  width: 100%;
+  background-image: url("https://i.imgur.com/fzQFv7W.png");
+  background-size: contain;
+  background-repeat: repeat-x;
+}
+
+.snow {
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url("https://i.imgur.com/M6y7p2j.png");
+  animation: snowFall 15s linear infinite;
+  opacity: 0.7;
+}
+
+@keyframes snowFall {
+  0% { background-position: 0 0; }
+  100% { background-position: 0 1000px; }
+}
+
+footer {
+  background: #8b0000;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-top: 5px solid green;
+}
 
