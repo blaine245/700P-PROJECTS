@@ -44,11 +44,11 @@
 
 ---
 - 🧪 **FINALS** 
-  - MIDTERM LAB TASK 1: [📂 Object Oriented Analysis](https://github.com/blaine245/700P-PROJECTS/blob/3c8c01e94e0ce4f6c33261d17df04141f2451e2d/Finals/lab%20task/bankAccout.py.pdf)
-  - MIDTERM LAB TASK 2: [📂 Loop and Functions](https://github.com/blaine245/700P-PROJECTS/blob/b861534c3b95055afeb32a5e99d41cc814dd1fdb/MIDTERM/Midterm%20Lab%20Task%202%20Loops%20and%20Functions.docx)
-  - MIDTERM LAB TASK 3: [📂 Python List Collections](https://github.com/blaine245/700P-PROJECTS/blob/d3b8ba8103eb838dd17a6be985ed7341af2bf519/MIDTERM/Asuar%20b.pdf)
-  - MIDTERM LAB TASK 4: [📂 Using Dictionaries](https://github.com/blaine245/700P-PROJECTS/blob/8afcbfa5fa667c837ed9378d85dcbc6eab0fbccf/MIDTERM/Aqua's%20(2).pdf)
-  - MIDTERM LAB TASK 5: [📂 Creating Class and Instantiating Objects in Python](https://github.com/blaine245/700P-PROJECTS/blob/686654ffe97b8c60ba9bb127f3537bcced6e0df8/MIDTERM/clabtask_5.pdf)
+  - FINALS LAB TASK 1: [📂 ENCAPSULATION](https://github.com/blaine245/700P-PROJECTS/blob/3c8c01e94e0ce4f6c33261d17df04141f2451e2d/Finals/lab%20task/bankAccout.py.pdf)
+  - FINALS LAB TASK 2: [📂 INHERITANCE](https://github.com/blaine245/700P-PROJECTS/blob/b861534c3b95055afeb32a5e99d41cc814dd1fdb/MIDTERM/Midterm%20Lab%20Task%202%20Loops%20and%20Functions.docx)
+  - FINALS LAB TASK 3: [📂 POLYMORPHISM](https://github.com/blaine245/700P-PROJECTS/blob/d3b8ba8103eb838dd17a6be985ed7341af2bf519/MIDTERM/Asuar%20b.pdf)
+  - FINALS LAB TASK 4: [📂 Using Dictionaries](https://github.com/blaine245/700P-PROJECTS/blob/8afcbfa5fa667c837ed9378d85dcbc6eab0fbccf/MIDTERM/Aqua's%20(2).pdf)
+  - FINALS LAB TASK 5: [📂 CRUD CLI using Python and MySQL](https://github.com/blaine245/700P-PROJECTS/blob/686654ffe97b8c60ba9bb127f3537bcced6e0df8/MIDTERM/clabtask_5.pdf)
     
 
 ---
