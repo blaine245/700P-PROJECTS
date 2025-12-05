@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/assets/css/christmas.css">
+<div class="snow"></div>
+
 <p align="center">
   <img src="Images./ASUAR BLAINE M.jpg" width="190" height="180" style="border-radius: 10px; border: 3px solid #d62828;" />
 </p>
