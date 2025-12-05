@@ -46,8 +46,8 @@
 - 🧪 **FINALS** 
   - FINALS LAB TASK 1: [📂 ENCAPSULATION](https://github.com/blaine245/700P-PROJECTS/blob/3c8c01e94e0ce4f6c33261d17df04141f2451e2d/Finals/lab%20task/bankAccout.py.pdf)
   - FINALS LAB TASK 2: [📂 INHERITANCE](https://github.com/blaine245/700P-PROJECTS/blob/30c8b6ea117370d7b51f9dd832cf1b7e7c354150/Finals/Asuar.pdf)
-  - FINALS LAB TASK 3: [📂 POLYMORPHISM](https://github.com/blaine245/700P-PROJECTS/blob/d3b8ba8103eb838dd17a6be985ed7341af2bf519/MIDTERM/Asuar%20b.pdf)
-  - FINALS LAB TASK 4: [📂 Using Dictionaries](https://github.com/blaine245/700P-PROJECTS/blob/8afcbfa5fa667c837ed9378d85dcbc6eab0fbccf/MIDTERM/Aqua's%20(2).pdf)
+  - FINALS LAB TASK 3: [📂 POLYMORPHISM](https://github.com/blaine245/700P-PROJECTS/blob/ba86822e36528536969061854ed4a57675d7b31e/Finals/Asuar%20Blaine%20M.pdf)
+  - FINALS LAB TASK 4: [📂 UNKNOW]()
   - FINALS LAB TASK 5: [📂 CRUD CLI using Python and MySQL](https://github.com/blaine245/700P-PROJECTS/blob/686654ffe97b8c60ba9bb127f3537bcced6e0df8/MIDTERM/clabtask_5.pdf)
     
 
