@@ -6,7 +6,7 @@
   <img src="https://pngimg.com/uploads/christmas_bells/christmas_bells_PNG53.png" width="160">
 </p>
 
-# 🎄✨ **Merry Christmas! — Blaine M. Asuar Edition** ✨🎄  
+# 🎄✨ **Merry Christmas! — Blaine M. Asuar ** ✨🎄  
 
 ---
 
