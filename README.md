@@ -55,8 +55,9 @@ But for now… I'm here to spread some holiday cheer! ❄️🎶"
 - 🎄 FINALS LAB TASK 1: [📂 ENCAPSULATION](https://github.com/blaine245/700P-PROJECTS/blob/3c8c01e94e0ce4f6c33261d17df04141f2451e2d/Finals/lab%20task/bankAccout.py.pdf)
 - 🎄 FINALS LAB TASK 2: [📂 INHERITANCE](https://github.com/blaine245/700P-PROJECTS/blob/30c8b6ea117370d7b51f9dd832cf1b7e7c354150/Finals/Asuar.pdf)
 - 🎄 FINALS LAB TASK 3: [📂 POLYMORPHISM](https://github.com/blaine245/700P-PROJECTS/blob/ba86822e36528536969061854ed4a57675d7b31e/Finals/Asuar%20Blaine%20M.pdf)
-- 🎄 FINALS LAB TASK 4: [📂 UNKNOWN]()
+- 🎄 FINALS LAB TASK 4: [📂Python and Tkinter GUI program]()
 - 🎄 FINALS LAB TASK 5: [📂 CRUD CLI with Python & MySQL](https://github.com/blaine245/700P-PROJECTS/blob/686654ffe97b8c60ba9bb127f3537bcced6e0df8/MIDTERM/clabtask_5.pdf)
+- 🎄 FINALS LAB TASK 6: [📂 Mysql and Tkinter HUI](https://github.com/blaine245/700P-PROJECTS/blob/686654ffe97b8c60ba9bb127f3537bcced6e0df8/MIDTERM/clabtask_5.pdf)
 
 ---
 
